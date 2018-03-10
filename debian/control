@@ -1,0 +1,26 @@
+Source: adapta-gtk-theme
+Section: x11
+Priority: optional
+Maintainer: The Chromium OS Authors <dev@chromium.org>
+Build-Depends: autoconf,
+               automake,
+               debhelper (>= 9),
+               inkscape (>= 0.91),
+               libgdk-pixbuf2.0-dev (>= 2.32.2),
+               libglib2.0-dev (>= 2.48.0),
+               libsass0 (>= 3.3),
+               libxml2-utils,
+               pkg-config,
+               sassc (>= 3.3)
+Standards-Version: 3.9.8
+Homepage: https://github.com/adapta-project/adapta-gtk-theme
+
+Package: adapta-gtk-theme
+Architecture: all
+Depends: ${misc:Depends},
+         gtk2-engines-murrine (>= 0.98.1),
+         gtk2-engines-pixbuf (>= 2.24.30),
+         libgtk2.0-0 (>= 2.24.30),
+         libgtk-3-0 (>= 3.20.0),
+Description: Adapta GTK+ theme
+ The Adapta GTK+ family of themes.
