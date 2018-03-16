@@ -1,0 +1,51 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Format: 1.8
+Date: Fri, 16 Mar 2018 12:50:45 -0700
+Source: adapta-gtk-theme
+Binary: adapta-gtk-theme
+Architecture: source
+Version: 3.93.0.174-cros1
+Distribution: unstable
+Urgency: medium
+Maintainer: The Chromium OS Authors <dev@chromium.org>
+Changed-By: Steve Barber <smbarber@chromium.org>
+Description:
+ adapta-gtk-theme - Adapta GTK+ theme
+Changes:
+ adapta-gtk-theme (3.93.0.174-cros1) unstable; urgency=medium
+ .
+   * Update to latest stable release
+Checksums-Sha1:
+ d89c53cbb9615c4d9acc03250633173fcaca380c 2017 adapta-gtk-theme_3.93.0.174-cros1.dsc
+ e86a585ea97aa3be1bbbcd45a4a62473be22300d 633911 adapta-gtk-theme_3.93.0.174.orig.tar.gz
+ 5f67f6f794495e9b0dae73e4b3084814be8b2ddd 1768 adapta-gtk-theme_3.93.0.174-cros1.debian.tar.xz
+ 07005ae0c7278f238e5cbb7f2ff051228d43c2e8 16344 adapta-gtk-theme_3.93.0.174-cros1_source.buildinfo
+Checksums-Sha256:
+ 4665c7ea8d25f406072f3bc1d805cc14c07034317a4c88c62ba7077d3b31f19f 2017 adapta-gtk-theme_3.93.0.174-cros1.dsc
+ 5bbd84e140b2a7271b29078f1d5bb3246248c7d71926e7d71582fdfa24858fa1 633911 adapta-gtk-theme_3.93.0.174.orig.tar.gz
+ bcccd52626e34f7878714142706915941284c050fb0f60ff3398bd171ff8d776 1768 adapta-gtk-theme_3.93.0.174-cros1.debian.tar.xz
+ eb953c1781f096c50a70f8f4d0a17991b4e0e49b9d1e1d0cfae3eaa62445eded 16344 adapta-gtk-theme_3.93.0.174-cros1_source.buildinfo
+Files:
+ eb56fd01283c3efc051c8d88682d841f 2017 x11 optional adapta-gtk-theme_3.93.0.174-cros1.dsc
+ a76029d793403169bd505a1db45c891c 633911 x11 optional adapta-gtk-theme_3.93.0.174.orig.tar.gz
+ f09b110055ef120f7d29595c1eed0b48 1768 x11 optional adapta-gtk-theme_3.93.0.174-cros1.debian.tar.xz
+ ac9303a5535fd389eb47b727bccd5c1c 16344 x11 optional adapta-gtk-theme_3.93.0.174-cros1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEkKcwwIga6T0LInu8jQDMHjfh1mEFAlqsI60ACgkQjQDMHjfh
+1mFy6g//ZQHbHpt87ZplwqLIEBB77+v9GrT7tuWbbI2opgfiWI98U/rKP+oIUD3M
+oM+DPXJGWyIYUZMIgtWx0hK6WW4J1uGy3NuL0k8nGRx/+fm7ZwVWBbl0zJILMn3J
+Nc8mxxIeXYnIeQjJ7KcW+C/mNk1RpKHZn5nFqm2VDn7xBC0OHqe/K4sldIkNWvk+
+19inpduGRrG9aoRHp8yfLAog0QzpmTS3RQCy4mYJusw01AxafiUtB1N+lrT5XlQb
+csA3j+gaNwc0RWEmfB7kkS4m52AZWEQGW2t2dHXbCL8iaFM0Eq9mvLWmq84QXVgD
+T9nKR/Yqr55KB9H9ndFjcOZKZsB4/QWpXQEOfxe8jpXr1vdiNLouQ7loZkGvdeEh
+459HMvA/6F5BiT4XYjXIk7t3gFqDVFZmtbiyuLHdaGpl8hhdlCkH7DFWhx5Vojsi
+/x8Mujm6sq0wStFsL5TZzW6MsqwpAxZxgrkPlWXyXHLn1XhuHsgDh6jnpwwftUQu
+5b8vXTS2D2xV81WgjBv/LjBPGpAT2EYcS1C6y6ZEDm7dNIpdKPnrkwP3+YlvrC8R
+oLsVxybS4ItwFWfT3hmHFworpDJ50kkdw+Uc4qL1+FI6fw0jOkDxkyHfGaE7MsX/
+PCF/ZZZkYdvTcV54+eaQ+bw/rDyaEJAecQW4Fm3Knqa6UrnbFCA=
+=dZrg
+-----END PGP SIGNATURE-----
