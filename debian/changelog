@@ -1,3 +1,9 @@
+adapta-gtk-theme (3.93.0.174-cros1) unstable; urgency=medium
+
+  * Update to latest stable release
+
+ -- Steve Barber <smbarber@chromium.org>  Fri, 16 Mar 2018 12:50:45 -0700
+
 adapta-gtk-theme (3.93.0.159cros1) unstable; urgency=medium
 
   * Initial release.
